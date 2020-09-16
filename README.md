@@ -5,7 +5,7 @@ We chose to explore the relationship between population density, oil consumption
 
 [Written Analysis - Google Drive Link](https://drive.google.com/file/d/1yRqWjjVf9xezeBwVAIdEqTkBgqb49-EK/view?usp=sharing)
 
-[Written Analysis - Word Download from repository](/Analysis/Climate_Change_Major_Findings.docx)
+[Written Analysis - Word download from repository](/Analysis/Climate_Change_Major_Findings.docx)
 
 [Powerpoint Presentation - Google Drive Link](https://docs.google.com/presentation/d/1bXYeMEF79kXsewjTNJ5lV4LHzCq3-SKhwvXft5UDpKg/edit#slide=id.g35f391192_00)
 
