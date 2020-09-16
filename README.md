@@ -1,5 +1,9 @@
 # Climate-Change-Project
-Exploration of climate change for Trilogy bootcamp
+First group project with 5 members.
 
+We chose to explore the relationship between population density, oil consumption, and global warming, broken down by geographic areas. While this was a broad topic, we tried out best to narrow it down. Ultimately we found that there wasn't data specific enough to accomplish our goal so we improvised and were able to answer the following questions:
 
-#restricted years to 1986-2016 because it is where our data overlaps in all sources
+[Written Analysis](https://drive.google.com/file/d/1yRqWjjVf9xezeBwVAIdEqTkBgqb49-EK/view?usp=sharing)
+[Powerpoint Presentation](https://docs.google.com/presentation/d/1bXYeMEF79kXsewjTNJ5lV4LHzCq3-SKhwvXft5UDpKg/edit#slide=id.g35f391192_00)
+
+A formal presentation concluded this project.
