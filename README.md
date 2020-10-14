@@ -16,7 +16,7 @@ Data Sources:
 * [EM-DAT, the International Disasters Database](https://www.emdat.be/)
 * [The World Bank](https://www.worldbank.org/)
 
-We took some time to source the data and observe it's structure and cleanliness. Afterwards, we imported it into Jupyter Notebook using Python and Pandas and began the cleaning process. This part proved to be time consuming and difficult as all of our data sources were formatted differently. Some other issues included naming differences for countries, empty cells (NaN), and different time ranges. Using Pandas to quickly locate and remove any NaN's made quick work of condensing the data into usable data sets.
+We took some time to source the data and observe it's structure and cleanliness. Afterwards, we imported it into Jupyter Notebook using Python and Pandas and began the cleaning process. This part proved to be time consuming and difficult as all of our data sources were formatted differently. Some other issues included naming differences for countries, empty cells (NaN), and different time ranges. Using Pandas to quickly locate and remove any NaN's made quick work of condensing the data into usable data sets. We limited our data to the years 1986-2016 as this was where most of our data overlapped and a 30 years time period is easy to breakdown into segments if needed.
 
 Using Jupyter Notbeooks was essential as it allowed us to see our graphs and charts as we worked. It also allowed us to analyze our data as we progressed through and make comparisons quickly.
 
