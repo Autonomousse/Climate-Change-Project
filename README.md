@@ -4,7 +4,7 @@
 
 Originally, we chose to investigate whether rideshare services in the United States were affecting gas usages and ultimately harming the environment. Due to limitations in the data available, such as Uber data being privately held and energy consumption by zip code not being available, we changed the scope of our investigation.
 
-Our new focus was on whether or not oil consumption truly impacts climate change versus other factors such as the relationship between population density and energy consumption, climate change and disaster impact, and transit usage and other data.
+Our new focus was on assessing whether or not energy consumption truly affects climate change and disaster impact based on various factors such as population density and transit usage.
 
 ## Cleanup and Exploration:
 
